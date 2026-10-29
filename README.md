@@ -34,4 +34,4 @@ PR を作ったあと、[Kosuke](https://kosuke.ai) の CLI に QA と二重レ�
 
 ## ライセンス
 
-MIT
+独自ライセンス（使用・自分用の改変は自由。再配布は禁止）。詳細は LICENSE を参照
