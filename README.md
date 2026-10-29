@@ -31,3 +31,7 @@ PR を作ったあと、[Kosuke](https://kosuke.ai) の CLI に QA と二重レ�
 - `--fix` の回は、Kosuke が commit を積みます。始める前に `git fetch` で他の push を確かめてください。
 - 動画の中身はエージェントには見えません。画面の説明はテスターの文字の記録から書きます。
 - Kosuke の使用には、Kosuke の登録と、Claude Code / Codex などの契約が別に要ります。
+
+## ライセンス
+
+MIT
