@@ -1,0 +1,8 @@
+{
+  "name": "kosuke-delegate",
+  "description": "PR のブランチを Kosuke (kosuke.ai) に渡して QA と二重レビューを走らせ、監視して、結果を 1 枚の HTML にまとめるスキル hand-kosuke",
+  "version": "0.1.0",
+  "author": {
+    "name": "asura-ai-dev"
+  }
+}

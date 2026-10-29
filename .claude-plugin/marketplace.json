@@ -1,0 +1,14 @@
+{
+  "name": "kosuke-delegate",
+  "owner": {
+    "name": "asura-ai-dev"
+  },
+  "plugins": [
+    {
+      "name": "kosuke-delegate",
+      "source": "./",
+      "description": "PR を Kosuke に QA・レビューさせ、結果を HTML にまとめるスキル hand-kosuke"
+    }
+  ],
+  "description": "Kosuke に QA・レビューを任せるスキル集"
+}
